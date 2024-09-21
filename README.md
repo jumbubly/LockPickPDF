@@ -77,7 +77,7 @@ password3
 
 ## Screenshots
 
-![LockPickPDF](https://raw.githubusercontent.com/jumbubly/GeoCipher/master/lockpickPDF.png)
+![LockPickPDF](https://github.com/jumbubly/LockPickPDF/blob/ea20b35035e8e4797dceaa93cb455b2a444c3e16/lockpickPDF.PNG)
 
 ## Contributing
 
